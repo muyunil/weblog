@@ -28,9 +28,9 @@ highlight_themes_css = [
 [languages]
 
 [languages.zh]
-title = "帕帕雅"
-description = "一个清新的 Zola 博客与项目模板"
-base_url = "https://justintennant.me/papaya/zh"
+title = "木羽"
+description = "weblog"
+base_url = "https://muio.net"
 generate_feed = true
 # The taxonomies to be rendered for the site and their configuration of the default languages
 taxonomies = [
@@ -90,16 +90,16 @@ username = "tiliquasp"
 
 # Footer social links; full options listed in macros/social.html
 [extra.social]
-email = "papaya@tiliqua.sp"
-github = "papaya"
-linkedin = "papayatiliqua"
-twitter = "your-user-name"
-zhihu = "your-user-name"
-weibo = "your-user-name"
-bilibili = "your-user-name"
-other = [
-    { name = "BTC", font_awesome = "fa-brands fa-btc", url = "https://www.bitcoin.com/" }
-]
+email = "muyu@muio.net"
+github = "muyunil"
+#linkedin = "papayatiliqua"
+#twitter = "your-user-name"
+#zhihu = "your-user-name"
+#weibo = "your-user-name"
+#bilibili = "your-user-name"
+#other = [
+#    { name = "BTC", font_awesome = "fa-brands fa-btc", url = "https://www.bitcoin.com/" }
+#]
 
 # CDN links
 [extra.cdn]
