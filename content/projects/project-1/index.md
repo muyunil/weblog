@@ -1,5 +1,5 @@
 +++
-title = "Example software project"
+title = "软件示例"
 date = 2021-08-11
 
 [taxonomies]
@@ -9,20 +9,20 @@ categories = ["software"]
 repo_path = "justint/papaya"
 +++
 
-This is my first software project!
+这是我写的第一个软件!
 
 <!-- more -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin est augue, pellentesque sit amet nisi ut, viverra vestibulum purus. Quisque ac varius elit. 
+轻轻地我走了，正如我轻轻地来；我轻轻地招手，作别西天的云彩。
 
-Praesent vitae pretium lacus, at placerat velit. Nulla feugiat quam eget quam tempus, id vulputate nulla suscipit. Vestibulum porta mollis molestie. In mollis diam et ante varius imperdiet et a elit. Mauris sodales quis nisi nec fringilla. 
+那河畔的金柳，是夕阳中的新娘；波光里的艳影，在我的心头荡漾。
 
-    Aenean sed fermentum nunc, a consectetur magna.
+软泥上的青荇，油油的在水底招摇；在康河的柔波里，我甘心做一条水草。
 
-Maecenas eget ligula porttitor, egestas orci id, gravida nisl. Aliquam erat volutpat. Sed dapibus felis quis lacus dignissim condimentum aliquam et orci. 
+那榆荫下的一潭，不是清泉，是天上的虹，揉碎在浮藻间，沉淀着彩虹似的梦。
 
-1. Sed rutrum velit et purus volutpat rutrum. 
-2. Suspendisse mollis ante arcu, sit amet vehicula nisl cursus ac. 
-3. Donec tristique risus dolor, at tristique urna placerat et. 
+寻梦？撑一支长篙，向青草更青处漫溯，满载一船星辉，在星辉斑斓里放歌。
 
-Nam vel interdum neque. Maecenas laoreet eget enim at rhoncus. Donec posuere diam leo, blandit semper urna semper nec. 
+但我不能放歌，悄悄是别离的笙箫；夏虫也为我沉默，沉默是今晚的康桥！
+
+悄悄的我走了，正如我悄悄的来，我挥一挥衣袖，不带走一片云彩。
