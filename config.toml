@@ -81,12 +81,12 @@ menu_items = [
 max_width = 2500
 
 # Open Graph Protocol objects. See: https://ogp.me/
-[extra.ogp]
-locale = "en_US"
-first_name = "Papaya"
-last_name = "Tiliqua"
-gender = "female"
-username = "tiliquasp"
+#[extra.ogp]
+#locale = "en_US"
+#first_name = "Papaya"
+#last_name = "Tiliqua"
+#gender = "female"
+#username = "tiliquasp"
 
 # Footer social links; full options listed in macros/social.html
 [extra.social]
