@@ -1,10 +1,11 @@
 +++
-title = "关于"
+title = "About"
+render = true
 template = "about.html"
 +++
 
-{{ img(path="@/about/me.jpg", class="bordered", alt="这是我！", caption="这是我！") }}
+{{ img(path="@/about/me.jpg", class="bordered", alt="It's me!", caption="It's me!") }}
 
 &nbsp;
 
-你好，世界！
+Hello, World!
