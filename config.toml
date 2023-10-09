@@ -40,12 +40,12 @@ taxonomies = [
 
 [languages.zh.translations]
 projects = "项目"
-blog = "博文"
+blog = "文章"
 about = "关于"
 recent_projects = "近期项目"
 more_projects = "更多项目"
-recent_blog_posts = "近期博文"
-more_blog_posts = "更多博文"
+recent_blog_posts = "近期文章"
+more_blog_posts = "更多文章"
 tag = "标签"
 tags = "所有标签"
 to_all_tags = "所有标签"
